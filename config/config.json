@@ -1,0 +1,17 @@
+{
+    "discord": {
+        "token": "bot_token",
+        "client": {
+            "id": "secret_id",
+            "secret": "secret"
+        }
+    },
+    "dbd": {
+        "port": 80,
+        "domain": "http://localhost",
+        "redirectUri": "/discord/callback",
+        "license": "dashboard_licence",
+        "ownerIDs": ["332638959383347201"],
+        "databaseLink": "mongodb+srv://your-username:your-password@your-cluster.mongodb.net/your-database-name?retryWrites=true&w=majority"
+    }
+}
