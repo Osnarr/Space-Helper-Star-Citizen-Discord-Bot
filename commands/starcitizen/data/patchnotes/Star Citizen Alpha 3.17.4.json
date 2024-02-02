@@ -1,0 +1,30 @@
+{
+  "title": "Star Citizen Alpha 3.17.4",
+  "date": null,
+  "content": "\n\nStar Citizen Patch 3.17.4\n\nAlpha Patch 3.17.4 has been released and is now available!   Patch should now show: VERSION 3.17.4-LIVE.8288900.\n\nIt is strongly recommended that players delete their USER and Shader folders for the Public client after patching, particularly if you start encountering any odd character graphical issues or crash on loading. The USER folder can be found (in default installations) at C:\\Program Files\\Roberts Space Industries\\StarCitizen\\LIVE. The Shader folders can be found here %localappdata%\\Star Citizen.\n\nDatabase Reset: YES\nLong Term Persistence: Enabled\nStarting aUEC: 20,000\n\n\n\n\nKnown Issues\n\n\n\tSabre Raven – VFX – Green flickering light fills the screen when sat in the pilot’s seat during weather VFX (Players will receive a loaner Sabre)\n\tPlayers may have to restart the game after getting kicked to the main menu from a 30k server crash\n\tTargeting – A ship’s targeting pip may be missing or disappear for some players; they cannot be targeted when this happens\n\tMultivehicle – Ships floating in the hangar when stored with the engines left on then retrieved again\n\tShips / Character Animation – The player character arm will misalign when seated in ships, causing obstruction of HUD and view\n\tVehicle / Spawning – The Khartu-al spawns on the hangar floor sideways\n\tVehicles / Ships – Shields – Weapon fire penetrates shields when ships are moving\n\tVehicles / ShipRefuel – While docked to a Starfarer multiple vehicle types will continuously tilt instead of remaining stationary and snap away from the arm if any movement is attempted\n\tVehicles – The Argo Raft’s elevator controls cannot be interacted with from either deck\n\tCrusader Ares – Headlights on Ares are too dim to notice at reasonable range\n\tAnimation – Weapons – All weapons are held like a pistol whilst moving in EVA\n\tCombat AI – UGF Missions are sometimes missing NPC spawns to complete the mission\n\tFPS Weapons – Weapon holsters or un-holsters unintentionally\n\tArmor / Weapons / Utility items may disappear between sessions\n\tInventory – Weapons – Weapons looted directly equipped from containers/boxes are missing attachments\n\tASOP – Ships on landing pads end up in “unknown state” for location and have to be reclaimed after the ship is stored or streamed out\n\tMissions – UGF / Bounty Hunter – Turrets around bunkers respawn very quickly, sometimes almost instantaneously\n\tMultiple locations – R&amp;R Stations – Stations are variably offset from the Lagrange point they are housed within\n\n\n\n\nNew Features\n\n\nShips and Vehicles\n\n\n\n\tAdded New Ship: Drake Corsair\n\n\n\n\n\n\nTechnical\n\n\n\n\tFixed 1 Server Crash\n\n\n\nBack to top",
+  "pages": [
+    [
+      "\n\nStar Citizen Patch 3.17.4\n\nAlpha Patch 3.17.4 has been released and is now available!   Patch should now show: VERSION 3.17.4-LIVE.8288900.\n\nIt is strongly recommended that players delete their USER and Shader folders for the Public client after patching, particularly if you start encountering any odd character graphical issues or crash on loading. The USER folder can be found (in default installations) at C:\\Program Files\\Roberts Space Industries\\StarCitizen\\LIVE. The Shader folders can be found here %localappdata%\\Star Citizen.\n\nDatabase Reset: YES\nLong Term Persistence: Enabled\nStarting aUEC: 20,000\n\n\n\n\nKnown Issues\n\n",
+      "Sabre Raven – VFX – Green flickering light fills the screen when sat in the pilot’s seat during weather VFX (Players will receive a loaner Sabre)",
+      "Players may have to restart the game after getting kicked to the main menu from a 30k server crash",
+      "Targeting – A ship’s targeting pip may be missing or disappear for some players; they cannot be targeted when this happens",
+      "Multivehicle – Ships floating in the hangar when stored with the engines left on then retrieved again",
+      "Ships / Character Animation – The player character arm will misalign when seated in ships, causing obstruction of HUD and view",
+      "Vehicle / Spawning – The Khartu-al spawns on the hangar floor sideways",
+      "Vehicles / Ships – Shields – Weapon fire penetrates shields when ships are moving",
+      "Vehicles / ShipRefuel – While docked to a Starfarer multiple vehicle types will continuously tilt instead of remaining stationary and snap away from the arm if any movement is attempted",
+      "Vehicles – The Argo Raft’s elevator controls cannot be interacted with from either deck",
+      "Crusader Ares – Headlights on Ares are too dim to notice at reasonable range",
+      "Animation – Weapons – All weapons are held like a pistol whilst moving in EVA",
+      "Combat AI – UGF Missions are sometimes missing NPC spawns to complete the mission",
+      "FPS Weapons – Weapon holsters or un-holsters unintentionally",
+      "Armor / Weapons / Utility items may disappear between sessions",
+      "Inventory – Weapons – Weapons looted directly equipped from containers/boxes are missing attachments",
+      "ASOP – Ships on landing pads end up in “unknown state” for location and have to be reclaimed after the ship is stored or streamed out",
+      "Missions – UGF / Bounty Hunter – Turrets around bunkers respawn very quickly, sometimes almost instantaneously",
+      "Multiple locations – R&amp;R Stations – Stations are variably offset from the Lagrange point they are housed within\n\n\n\n\nNew Features\n\n\nShips and Vehicles\n\n\n",
+      "Added New Ship: Drake Corsair\n\n\n\n\n\n\nTechnical\n\n\n",
+      "Fixed 1 Server Crash\n\n\n\nBack to top"
+    ]
+  ]
+}
